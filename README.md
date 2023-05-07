@@ -10,7 +10,7 @@ In this project, I will be conducting a comprehensive exploratory data analysis 
 2.	Data cleaning
 3.	Hypothesis Testing
 
-# Data Sourcing:
+# Data Sourcing
 The dataset was downloaded from kaggle [here](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023). 
 
 It contains 11 columns, each are:
@@ -36,6 +36,7 @@ It contains 11 columns, each are:
 7.	Where are the top remote jobs locations?
 
 # Data Cleaning
+
 - Making the first row as header and capitalizing the first word for easy readability
 - I changed data type from General to Text, Currency and Number where applicable
 - I standardized abbreviations using Find/Replace 
