@@ -36,12 +36,15 @@ It contains 11 columns, each are:
 7.	Where are the top remote jobs locations?
 
 # Data Cleaning
-
-- Making the first row as header and capitalizing the first word for easy readability
-- I changed data type from General to Text, Currency and Number where applicable
+   Cleaned data            |     Raw data
+   :----------------------:|:---------------:
+   ![](Overview_after.PNG) | ![](Overview_before.PNG)
+   
+   ##### Tasks carried out are:-
+- Made the first row as header and capitalizing the first word for easy readability
+- I changed data type from General to **Text**, **Currency** and **Number** where applicable
 - I standardized abbreviations using Find/Replace 
 - filtered the data to meet certain conditions and checked for blanks
-- data aggregation
 
 
 
