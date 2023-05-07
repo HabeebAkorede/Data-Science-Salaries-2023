@@ -6,9 +6,10 @@
 In this project, I will be conducting a comprehensive exploratory data analysis and visualization of the dataset to uncover hidden patterns, relationships, and insights that can inform salary negotiations and career decisions in the field of data science.
 
 ### Concepts Applied:
-1.	Descriptive statistics
-2.	Data cleaning
-3.	Hypothesis Testing
+1.	Data cleaning
+2.	Descriptive statistics
+3. EDA
+4.	Hypothesis Testing
 
 # Data Sourcing
 The dataset was downloaded from kaggle [here](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023). 
@@ -45,6 +46,8 @@ It contains 11 columns, each are:
 - I changed data type from General to **Text**, **Currency** and **Number** where applicable
 - I standardized abbreviations using Find/Replace 
 - filtered the data to meet certain conditions and checked for blanks
+
+# Data Analysis and Visualization
 
 
 
