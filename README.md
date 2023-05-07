@@ -27,13 +27,21 @@ It contains 11 columns, each are:
 - company_size: The median number of people that worked for the company during the year
 
 # Problem statement 
-1. What are Top 10 Job Data science job titles in 2023?
+1. What are Top 10 Data science job titles in 2023?
 2.	Which data science Job titles earn the top salaries?
 3.	Which is the top experience level of data scientists in 2023?
-4.	What types of employment arrangements that are common in this industry?
+4.	What types of employment arrangements are common in this field?
 5.  What is the top salaries by these employment arrangement? 
-6.	Which year has Data Scientists earned the highest?
+6.	What year has Data Scientists earned the highest?
 7.	Where are the top remote jobs locations?
+
+# Data Cleaning
+- Making the first row as header and capitalizing the first word for easy readability
+- I changed data type from General to Text, Currency and Number where applicable
+- I standardized abbreviations using Find/Replace 
+- filtered the data to meet certain conditions and checked for blanks
+- data aggregation
+
 
 
 
