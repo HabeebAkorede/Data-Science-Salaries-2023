@@ -62,10 +62,10 @@ It contains 11 columns, each are:
    #### Insights:
     1. The data shows that senior-level positions have the highest count accounting for 67% of the whole , then followed by mid-level positions, while executive-level positions are comparatively fewer.
     2. The data indicates that a significant number of individuals are employed on a full-time basis, with the majority of them holding senior positions. Furthermore, it appears that freelancing has become less common in recent times.
-    ---
+---
    
    ![](SalaryperYear.PNG)   
-   #### Insights:
+   #### Insight:
    1. The data clearly shows that the average salary for data-driven jobs has been on the rise every year, with a notably significant increase observed between 2021 and 2022. This trend highlights the escalating need for qualified and competent professionals in this field.
   
    
