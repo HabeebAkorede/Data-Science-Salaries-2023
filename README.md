@@ -38,18 +38,20 @@ It contains 11 columns, each are:
 # Data Cleaning
    Cleaned data            |     Raw data
    :----------------------:|:---------------:
-   ![](Overview_after.PNG) | ![](Overview_before.PNG)
+   ![](NewCleanedData.PNG) | ![](Overview_before.PNG)
    
    ##### Tasks carried out are:-
 - Made the first row as header and capitalizing the first word for easy readability
 - I changed data type from General to **Text**, **Currency** and **Number** where applicable
 - I standardized abbreviations using Find/Replace 
 - filtered the data to meet certain conditions and checked for blanks
+- Deleted the salary currency column sincce we already have a column that has the salries in US dollars
+- Standardized the company location column by replacing the country-names abrreviations, so as to ensure accuracy and consitencies.
 
 # Data Analysis and Visualization
  Top data science job titles in 2023           |    Data science job titles earning top salaries
    :----------------------:|:---------------:
-   ![](Job_titles.PNG) | ![](AvgSalaries.PNG)
+   ![](Job_titles.PNG) | ![](AvgSalaries1.PNG)
    #### Insights:
    1. In terms of job titles, data engineers have the highest position, with data scientists following closely behind.
    2. As anticipated, employees at the executive level typically receive higher average salaries. Additionally, the profession of cloud data architect has become the second highest paid due to the increasing prevalence of cloud computing.
