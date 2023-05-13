@@ -69,14 +69,21 @@ It contains 11 columns, each are:
    
   Average salary from 2020 - 2023    |     Map of country location with remote jobs in Data science 
    :-----------------------------------------:|:-----------------------:
-  ![](SalaryperYear.PNG)                   | ![](Map1.PNG)
+  ![](SalaryperYear.PNG)                   | ![](map2.PNG)
   
      
    #### Insight:
    1. The data clearly shows that the average salary for data-driven jobs has been on the rise every year, with a notably significant increase observed between 2021 and 2022. This trend highlights the escalating need for qualified and competent professionals in this field.
-   2. United States is the country with the highest remote ratio. You could hover [**here**] around other countries to gain more location insights
-  
-   
+   2. United States is the country with the highest remote ratio. You could hover [here](https://public.tableau.com/authoring/DataScienceSalaries_16834940164550/Sheet6#1)  around other countries to gain more location insights
+---
+### Dashboard
+Click [here](https://public.tableau.com/authoring/DataScienceSalaries_16834940164550/Dashboard1#1) to interact with the dashoboard 
 
+![](ds_salaries_dashboard1.PNG)
+---
+
+# Conclusion
+The growing demand for data-driven professionals in various job roles is reflected in the upward trend of salaries in the industry. This highlights the importance and value of data science skills in today's job market, and presents an exciting opportunity for individuals interested in pursuing a career in this field.
+  
 
 
