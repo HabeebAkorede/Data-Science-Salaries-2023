@@ -3,13 +3,14 @@
 ---
 
 # Introduction:
+So, I was so curious about how much different job roles in data science make! I mean, there are data engineers, data analysts, and of course, the rockstar number-crunchers - data scientists! So I just had to look up data and compare their salaries to see who's making the most bank.
+
 In this project, I will be conducting a comprehensive exploratory data analysis and visualization of the dataset to uncover hidden patterns, relationships, and insights that can inform salary negotiations and career decisions in the field of data science.
 
 ### Concepts Applied:
 1.	Data cleaning
 2.	Descriptive statistics
 3. EDA
-4.	Hypothesis Testing
 
 # Data Sourcing
 The dataset was downloaded from kaggle [here](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023). 
@@ -66,9 +67,14 @@ It contains 11 columns, each are:
     2. The data indicates that a significant number of individuals are employed on a full-time basis, with the majority of them holding senior positions. Furthermore, it appears that freelancing has become less common in recent times.
 ---
    
-   ![](SalaryperYear.PNG)   
+  Average salary from 2020 - 2023    |     Map of country location with remote jobs in Data science 
+   :-----------------------------------------:|:-----------------------:
+  ![](SalaryperYear.PNG)                   | ![](Map1.PNG)
+  
+     
    #### Insight:
    1. The data clearly shows that the average salary for data-driven jobs has been on the rise every year, with a notably significant increase observed between 2021 and 2022. This trend highlights the escalating need for qualified and competent professionals in this field.
+   2. United States is the country with the highest remote ratio. You could hover [**here**] around other countries to gain more location insights
   
    
 
